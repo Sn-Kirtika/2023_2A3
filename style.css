@@ -25,7 +25,9 @@
 }
 
 /* Eléments principaux de la page */
-
+h1 {
+    color: red;
+}
 body
 {
     background: url('images/fond_jaune.png');
